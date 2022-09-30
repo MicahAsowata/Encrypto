@@ -25,7 +25,7 @@ How to use it
     `go build main.go encrypto.go`
     
 - Run the executable
-- 
+ 
     ` ./main`
 
 
