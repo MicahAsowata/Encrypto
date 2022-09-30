@@ -7,26 +7,26 @@ How to use it
 
     Use the command 
     
-      `go version`
+     ` go version `
       
     to check. Output should be something like:
     
-      `go version go1.19.1 linux/amd64`
+     ` go version go1.19.1 linux/amd64 `
       
 - Terminal Or Command Prompt
 
-    `mkdir Encypto`
+     ` mkdir Encypto `
     
-    `cd Encrypto`
+     ` cd Encrypto `
     
 - Clone the project
 - Build the file into an executable
 
-    `go build main.go encrypto.go`
+     ` go build main.go encrypto.go `
     
 - Run the executable
  
-    ` ./main`
+     ` ./main `
 
 
 Follow the prompts where it leads.
