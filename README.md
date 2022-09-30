@@ -19,12 +19,13 @@ How to use it
      ```
 - Clone the project
 - Build the file into an executable
-
-     ` go build main.go encrypto.go `
-    
+    ```
+     go build main.go encrypto.go
+     ```
 - Run the executable
- 
-     ` ./main `
+    ```
+     ./main
+     ```
 
 
 Follow the prompts where it leads.
