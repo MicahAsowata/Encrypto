@@ -4,7 +4,8 @@ It is an encryption program written entirely in Go.
 How to use it
 
 - Go Compiler (v1.19) was used to build the project
-    Use the command
+
+    Use the command 
     
       `go version`
       
@@ -14,16 +15,22 @@ How to use it
       
 - Terminal Or Command Prompt
 
-    `mkdir Encypto
+    `mkdir Encypto`
     
-    cd Encrypto` 
+    `cd Encrypto`
+    
 - Clone the project
 - Build the file into an executable
+
     `go build main.go encrypto.go`
+    
 - Run the executable
+- 
     ` ./main`
 
 
 Follow the prompts where it leads.
 
 But note, any character that is not in the alphabet slice and that is not a space would be rendered as a dot.
+
+Happy building 🥳 🥳 🥳 🥳 🥳 🥳
