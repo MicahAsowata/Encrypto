@@ -1,7 +1,7 @@
 # Encrypto
-It is an encryption program written entirely in Go.
+It is a program that can be used to encrypt any piece of text in seconds.
 
-How to use it
+## How to use it
 
 - Go Compiler (v1.19) was used to build the project
     Use the command 
